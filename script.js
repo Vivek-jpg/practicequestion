@@ -17,6 +17,8 @@ function Switchcolor(){
      Input2.style.backgroundColor = 'green';
      Input1.style.backgroundColor = 'red';
       body.style.background ="gray";
+      
+
      
   }
 }
